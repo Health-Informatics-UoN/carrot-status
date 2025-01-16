@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1133,
-    "timeDay": 1133,
-    "timeWeek": 1133,
-    "timeMonth": 1133,
-    "timeYear": 1133,
+    "time": 1151,
+    "timeDay": 1151,
+    "timeWeek": 1151,
+    "timeMonth": 1151,
+    "timeYear": 1151,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1310,
-    "timeDay": 1310,
-    "timeWeek": 1310,
-    "timeMonth": 1310,
-    "timeYear": 1310,
+    "time": 1250,
+    "timeDay": 1250,
+    "timeWeek": 1250,
+    "timeMonth": 1250,
+    "timeYear": 1250,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.carrot.ac.uk.ico",
     "slug": "carrot-api",
     "status": "down",
-    "uptime": "5.73%",
-    "uptimeDay": "5.73%",
-    "uptimeWeek": "5.73%",
-    "uptimeMonth": "5.73%",
-    "uptimeYear": "5.73%",
-    "time": 804,
-    "timeDay": 804,
-    "timeWeek": 804,
-    "timeMonth": 804,
-    "timeYear": 804,
+    "uptime": "0.34%",
+    "uptimeDay": "0.34%",
+    "uptimeWeek": "0.34%",
+    "uptimeMonth": "0.34%",
+    "uptimeYear": "0.34%",
+    "time": 740,
+    "timeDay": 740,
+    "timeWeek": 740,
+    "timeMonth": 740,
+    "timeYear": 740,
     "dailyMinutesDown": {
-      "2025-01-16": 0
+      "2025-01-16": 6
     }
   }
 ]
