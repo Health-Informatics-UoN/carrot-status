@@ -13,12 +13,13 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
-  baseUrl: /carrot-status
+  cname: status.carrot.ac.uk
+  # baseUrl: /carrot-status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Carrot Status
   introTitle: "**Carrot Status** is the uptime monitor and status page for Carrot."
   introMessage: Our team are monitoring and alerted by the status of this page.
+  theme: night
   navbar:
     - title: Status
       href: /
@@ -27,3 +28,6 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+assignees:
+  - AndrewThien
+  - AndyRae
