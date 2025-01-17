@@ -1,6 +1,6 @@
 # [📈 Live Status](https://status.carrot.ac.uk/): <!--live status--> **🟧 Partial outage**
 
-This repository contains the open-source uptime monitor and status page for [Upptime](https://upptime.js.org), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page for [Carrot Mapper](https://carrot.ac.uk/), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/health-informatics-uon/carrot-status/workflows/Uptime%20CI/badge.svg)](https://github.com/health-informatics-uon/carrot-status/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/health-informatics-uon/carrot-status/workflows/Response%20Time%20CI/badge.svg)](https://github.com/health-informatics-uon/carrot-status/actions?query=workflow%3A%22Response+Time+CI%22)
