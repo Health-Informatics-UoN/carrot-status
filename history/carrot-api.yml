@@ -1,7 +1,7 @@
-url: https://api.carrot.ac.uk/api/v2/scanreports/
-status: down
-code: 401
-responseTime: 754
-lastUpdated: 2025-01-17T10:06:02.506Z
+url: https://api.carrot.ac.uk/admin/
+status: up
+code: 200
+responseTime: 596
+lastUpdated: 2025-01-17T10:40:29.629Z
 startTime: 2025-01-16T20:16:37.644Z
 generator: Upptime <https://github.com/upptime/upptime>
