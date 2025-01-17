@@ -8,7 +8,7 @@ sites:
   - name: Carrot Mapper
     url: https://mapper.carrot.ac.uk
   - name: Carrot API
-    url: https://api.carrot.ac.uk/api/v2/scanreports/
+    url: https://api.carrot.ac.uk/admin/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
