@@ -7,17 +7,19 @@ sites:
     url: https://carrot.ac.uk
   - name: Carrot Mapper
     url: https://mapper.carrot.ac.uk
+    icon: https://raw.githubusercontent.com/Health-Informatics-UoN/carrot-status/refs/heads/master/assets/logo.svg
   - name: Carrot API
     url: https://api.carrot.ac.uk/admin/
+    icon: https://raw.githubusercontent.com/Health-Informatics-UoN/carrot-status/refs/heads/master/assets/logo.svg
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.carrot.ac.uk
   # baseUrl: /carrot-status
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/Health-Informatics-UoN/carrot-status/refs/heads/master/assets/logo.svg
   name: Carrot Status
-  introTitle: "**Carrot Status** is the uptime monitor and status page for Carrot."
+  introTitle: "**Carrot Status** is the uptime monitor and status page for Carrot Mapper."
   introMessage: Our team are monitoring and alerted by the status of this page.
   theme: night
   navbar:
