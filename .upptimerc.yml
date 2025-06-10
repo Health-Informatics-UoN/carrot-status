@@ -9,7 +9,7 @@ sites:
     url: https://mapper.carrot.ac.uk
     icon: https://raw.githubusercontent.com/Health-Informatics-UoN/carrot-status/refs/heads/master/assets/logo.svg
   - name: Carrot API
-    url: https://api.carrot.ac.uk/admin/
+    url: https://api.carrot.ac.uk/health
     icon: https://raw.githubusercontent.com/Health-Informatics-UoN/carrot-status/refs/heads/master/assets/logo.svg
 
 status-website:
