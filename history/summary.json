@@ -40,9 +40,9 @@
     "url": "https://api.carrot.ac.uk/health",
     "icon": "https://raw.githubusercontent.com/Health-Informatics-UoN/carrot-status/refs/heads/master/assets/logo.svg",
     "slug": "carrot-api",
-    "status": "up",
+    "status": "down",
     "uptime": "98.84%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.84%",
@@ -52,6 +52,7 @@
     "timeMonth": 579,
     "timeYear": 654,
     "dailyMinutesDown": {
+      "2025-09-09": 0,
       "2025-05-29": 356,
       "2025-05-23": 521,
       "2025-05-22": 1440,
@@ -66,19 +67,19 @@
     "url": "https://airflow.carrot.ac.uk/health",
     "icon": "https://raw.githubusercontent.com/Health-Informatics-UoN/carrot-status/refs/heads/master/assets/logo.svg",
     "slug": "carrot-airflow",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 598,
-    "timeDay": 651,
-    "timeWeek": 527,
-    "timeMonth": 580,
-    "timeYear": 598,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.24%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 601,
+    "timeDay": 721,
+    "timeWeek": 560,
+    "timeMonth": 586,
+    "timeYear": 601,
     "dailyMinutesDown": {
-      "2025-09-09": 0
+      "2025-09-09": 11
     }
   }
 ]
