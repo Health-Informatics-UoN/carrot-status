@@ -22,19 +22,19 @@
     "url": "https://mapper.carrot.ac.uk",
     "icon": "https://raw.githubusercontent.com/Health-Informatics-UoN/carrot-status/refs/heads/master/assets/logo.svg",
     "slug": "carrot-mapper",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1052,
-    "timeDay": 1052,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "88.20%",
+    "uptimeWeek": "98.31%",
+    "uptimeMonth": "99.61%",
+    "uptimeYear": "99.96%",
+    "time": 1051,
+    "timeDay": 1074,
     "timeWeek": 1117,
-    "timeMonth": 1168,
-    "timeYear": 1052,
+    "timeMonth": 1166,
+    "timeYear": 1051,
     "dailyMinutesDown": {
-      "2025-12-10": 0
+      "2025-12-10": 170
     }
   },
   {
