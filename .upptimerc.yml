@@ -14,6 +14,8 @@ sites:
   - name: Carrot Airflow
     url: https://airflow.carrot.ac.uk/health
     icon: https://raw.githubusercontent.com/Health-Informatics-UoN/carrot-status/refs/heads/master/assets/logo.svg
+  - name: Lettuce API
+    url: https://api.lettuce.carrot.ac.uk/health
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -37,4 +39,4 @@ assignees:
   - AndrewThien
   - AndyRae
   - Karthi-DStech
-  - brian-kim31
+  - kuraisle
