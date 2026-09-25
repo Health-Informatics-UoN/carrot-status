@@ -78,9 +78,9 @@
     "url": "https://api.lettuce.carrot.ac.uk/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.lettuce.carrot.ac.uk.ico",
     "slug": "lettuce-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -89,6 +89,8 @@
     "timeWeek": 634,
     "timeMonth": 785,
     "timeYear": 734,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-09-25": 0
+    }
   }
 ]
