@@ -12,7 +12,7 @@ sites:
     url: https://api.carrot.ac.uk/health
     icon: https://raw.githubusercontent.com/Health-Informatics-UoN/carrot-status/refs/heads/master/assets/logo.svg
   - name: Carrot Airflow
-    url: https://airflow.carrot.ac.uk/health
+    url: https://airflow.carrot.ac.uk/api/v2/monitor/health
     icon: https://raw.githubusercontent.com/Health-Informatics-UoN/carrot-status/refs/heads/master/assets/logo.svg
   - name: Lettuce API
     url: https://api.lettuce.carrot.ac.uk/health
