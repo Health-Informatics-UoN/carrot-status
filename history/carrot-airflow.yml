@@ -1,7 +1,7 @@
 url: https://airflow.carrot.ac.uk/api/v2/monitor/health
 status: up
 code: 200
-responseTime: 688
-lastUpdated: 2026-11-20T03:50:26.188Z
+responseTime: 781
+lastUpdated: 2026-11-21T03:43:03.453Z
 startTime: 2025-06-26T13:39:22.495Z
 generator: Upptime <https://github.com/upptime/upptime>
